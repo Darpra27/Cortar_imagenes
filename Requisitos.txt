@@ -1,2 +1,0 @@
-- Instalar Pillow en Python
-- https://pypi.org/project/Pillow/
